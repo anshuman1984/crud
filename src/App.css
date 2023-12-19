@@ -1,0 +1,14 @@
+.font-color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 4em;
+  color: #f00808;
+  font-weight: 700px;
+}
+
+.sg-button {
+  min-width: 70px;
+  min-height: 45px;
+}

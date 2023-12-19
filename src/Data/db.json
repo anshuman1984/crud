@@ -1,0 +1,84 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "mail": "rajesh.kumar@example.in",
+      "phone": "+91 9876543210",
+      "address": "A-1, Ganga Nagar, Delhi",
+      "type": "domestic"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "mail": "priya.sharma@example.in",
+      "phone": "+91 8765432109",
+      "address": "B-23, Gandhi Road, Mumbai",
+      "type": "mnc"
+    },
+    {
+      "id": 3,
+      "name": "Amit Patel",
+      "mail": "amit.patel@example.in",
+      "phone": "+91 7890123456",
+      "address": "C-45, Navrangpura, Ahmedabad",
+      "type": "domestic"
+    },
+    {
+      "id": 4,
+      "name": "Adyansh Pujari",
+      "mail": "Adyansh.Pujari@example.in",
+      "phone": "+91 7788833886",
+      "address": "ec4/56 pradhanpara",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "Deepti Mahapatra",
+      "mail": "deepti@gmail.com",
+      "phone": "7077596012",
+      "address": "podbadi",
+      "type": "MNC"
+    },
+    {
+      "id": 6,
+      "name": "react",
+      "mail": "asdsa@gmail.com",
+      "phone": "7788833886",
+      "address": "sad",
+      "type": "Domestic"
+    },
+    {
+      "id": 7,
+      "name": "Abhijit Pujari",
+      "mail": "abhi@gmail.com",
+      "phone": "9439223355",
+      "address": "mobile mania",
+      "type": "MNC"
+    },
+    {
+      "id": 8,
+      "name": "Abhisek pujari",
+      "mail": "abh@gmail.com",
+      "phone": "7077596012",
+      "address": "sad",
+      "type": "Domestic"
+    },
+    {
+      "id": 9,
+      "name": "react",
+      "mail": "asdsa@gmail.com",
+      "phone": "7788833886",
+      "address": "sad",
+      "type": "MNC"
+    },
+    {
+      "id": 10,
+      "name": "Abhisek pujari",
+      "mail": "asdsa@gmail.com",
+      "phone": "7788833886",
+      "address": "sad",
+      "type": "Domestic"
+    }
+  ]
+}
