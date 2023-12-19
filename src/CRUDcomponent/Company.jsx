@@ -172,18 +172,4 @@ const mapDispatchtoProps = (dispatch) => {
     }
 }
 
-
-// const mapStatetoProps = (state) => {
-//     return {
-//         companystate: state.company
-//     }
-// }
-
-// const mapDispatchtoProps = (dispatch) => {
-//     return {
-//         loadcompany: () => dispatch(GetAllCompanys())
-//     }
-// }
-
-// export default connect(mapStatetoProps, mapDispatchtoProps)(Company);
 export default connect(mapStatetoProps, mapDispatchtoProps)(Company)
